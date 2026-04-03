@@ -1,6 +1,6 @@
 # <a id="src-main"></a> Edge to Intelligence: Architecting IoT Environmental Stations
 
-The document **"Edge to Intelligence: Architecting IoT Environmental Stations"** provides a comprehensive blueprint for building robust, scalable IoT systems for environmental monitoring, covering everything from hardware acquisition to advanced data analytics[[Source 1]](#images/eia1)[[Source 2]](#src-2).
+The document **"Edge to Intelligence: Architecting IoT Environmental Stations"** provides a comprehensive blueprint for building robust, scalable IoT systems for environmental monitoring, covering everything from hardware acquisition to advanced data analytics[[Source 1]](#images/eia1.png)[[Source 2]](#src-2).
 
 The summary of the core themes is as follows:
 
