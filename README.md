@@ -16,7 +16,7 @@ The document outlines three distinct pathways for data telemetry[[Illustration 4
 
 ### **3\. Data Pipeline and Persistence**
 
-A "Deep Dive" into the **Node-RED pipeline** explains how raw serial strings are ingested, parsed via JavaScript function nodes into JSON objects, and routed to dashboard UI gauges [[Illustratione 7]](images/eia7.png) and charts[[Illustratione 9]](images/eia9.png). For long-term storage, the system integrates with **MySQL**, using parameterized queries to ensure secure data persistence and prevent SQL injection[[Illustration 8]](images/eia8.png).
+A "Deep Dive" into the **Node-RED pipeline** explains how raw serial strings are ingested, parsed via JavaScript function nodes into JSON objects, and routed to dashboard UI gauges [[Illustratione 7]](images/eia7.png) and charts[[Illustration 9]](images/eia9.png). For long-term storage, the system integrates with **MySQL**, using parameterized queries to ensure secure data persistence and prevent SQL injection[[Illustration 8]](images/eia8.png).
 
 ### **4\. Edge Intelligence and Advanced Analytics**
 
