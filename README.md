@@ -14,10 +14,10 @@ Two primary hardware configurations are presented for different monitoring needs
 * **The Field Researcher** : Utilizes an Arduino Uno R4 WiFi paired with a BME280 sensor for "4-dimensional" reading (temperature, humidity, pressure, and altitude), transmitting data via serial USB-C.
 * **The Local Monitor**: Uses an ESP32-WROOM with a DHT22 sensor and a 16x2 LCD for cost-effective, real-time local display.
 
-The document outlines three distinct pathways for data telemetry [[Illustration 9](images/eia9.png) :
-* **Standalone Local Server** : Fast implementation using the ESP32 in Station (STA) mode for local access with zero external dependencies [[Illustration 4](images/eia4.png).
-* **Managed IoT Clouds** : Uses platforms like Blynk or Arduino IoT Cloud for rapid global dashboard deployment and bi-directional control [[Illustration 5](images/eia5.png).
-    * **Research-Grade Gateway** : A centralized model where the Arduino acts as an acquisition client, sending CSV data to a Node-RED server for infinite persistence and high analytical extensibility [[Illustration 6](images/eia6.png).
+The document outlines three distinct pathways for data telemetry [[Illustration 9]](images/eia9.png) :
+* **Standalone Local Server** : Fast implementation using the ESP32 in Station (STA) mode for local access with zero external dependencies [[Illustration 4]](images/eia4.png).
+* **Managed IoT Clouds** : Uses platforms like Blynk or Arduino IoT Cloud for rapid global dashboard deployment and bi-directional control [[Illustration 5]](images/eia5.png).
+* **Research-Grade Gateway** : A centralized model where the Arduino acts as an acquisition client, sending CSV data to a Node-RED server for infinite persistence and high analytical extensibility [[Illustration 6]](images/eia6.png).
 
 ### **3\. Data Pipeline and Persistence**
 
