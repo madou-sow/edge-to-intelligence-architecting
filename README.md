@@ -11,6 +11,7 @@ The document identifies the primary hurdle in environmental IoT as bridging the 
 ### **2\. Hardware and Deployment Architectures**
 
 Two primary hardware configurations are presented for different monitoring needs [[Illustration 3]](images/eia3.png) :
+
     * **The Field Researcher** : Utilizes an Arduino Uno R4 WiFi paired with a BME280 sensor for "4-dimensional" reading (temperature, humidity, pressure, and altitude), transmitting data via serial USB-C.
     * **The Local Monitor**: Uses an ESP32-WROOM with a DHT22 sensor and a 16x2 LCD for cost-effective, real-time local display.
 
