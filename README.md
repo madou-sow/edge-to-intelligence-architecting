@@ -37,5 +37,5 @@ The final stage involves revealing environmental patterns through sophisticated 
 * **PCA Plots** : These identify dominant operating states in the monitored environment by reducing dimensions while retaining maximum variance [[Illustration 13]](images/eia13.png).
 * **Kernel Density Estimation (KDE)** : This technique is used to solve the "over-plotting paradox," transforming dense scatter plots into probability distribution contours to isolate high-concentration data centers and identify outliers [[Illustration 14]](images/eia14.png).
 
-Ultimately, the document describes a **complete data lifecycle**—from raw voltage at the edge to intelligent insight via archiving and automated analysis[[Illustration 15]](images/eia15.png).
+Ultimately, the document describes a **complete data lifecycle** : from raw voltage at the edge to intelligent insight via archiving and automated analysis[[Illustration 15]](images/eia15.png).
 
